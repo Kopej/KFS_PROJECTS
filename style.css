@@ -1,0 +1,45 @@
+body{
+    background-color: aliceblue;
+}
+div{
+
+}
+.section1{
+    background-color: whitesmoke;
+    width: 1920px;
+    height: 100px;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 90px;
+}
+.section2{
+    background-color: rgb(74, 99, 63);
+    width: auto;
+    height: 50px;
+    text-align: left;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.Text{
+    width: auto;
+}
+.section3{
+    background-color: white;
+    width: auto;
+    height: 60px;
+}
+.RSIMAGE{
+   
+}
+
+.section4{
+    background-color: antiquewhite;
+    width: auto;
+    height: 200px;
+}
+h2{
+    color: greenyellow;
+}
+.container{
+    background-image: url(CONTACT.jpg);
+}
